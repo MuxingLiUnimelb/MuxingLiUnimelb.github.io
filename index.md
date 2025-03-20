@@ -16,7 +16,7 @@ I am Muxing Li, a Ph.D. candidate at Trustworthy Machine Learning and Reasoning 
 - **Feb. 2018-Feb. 2022 -  the Australian National University (ANU), B.Sc. in Advanced computing (Honours), advised by Dr. Yu Lin**
 
 ## Internship experience
-- **Feb. 2023- Feb. 2024 - Research assistant, advised by Prof. Joey Zhou and Dr. Ping Liu.**
+- **Feb. 2023- Feb. 2024 - The Agency for Science, Technology and Research (A*STAR), Research Assistant, advised by Prof. Joey Zhou and Dr. Ping Liu.**
 
 ## publication
 - Lu M, Fang L, Li M, et al. NFANet: A novel method for weakly supervised water extraction from high-resolution remote-sensing imagery[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-14.
