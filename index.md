@@ -29,6 +29,4 @@ I am Muxing Li, a Ph.D. candidate at Trustworthy Machine Learning and Reasoning 
 - Journal Reviewer: NEUNET, etc.
 
 
-//{% include_relative _includes/publications.md %}
 
-//{% include_relative _includes/services.md %}
