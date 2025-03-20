@@ -23,7 +23,7 @@ I am Muxing Li, a Ph.D. candidate at Trustworthy Machine Learning and Reasoning 
 - Li Z, Duan P, Hu S, et al. Fast hyperspectral image dehazing with dark-object subtraction model[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5.
 - Fang L, Guo J, He X, et al. Self-supervised patient-specific features learning for OCT image classification[J]. Medical & Biological Engineering & Computing, 2022, 60(10): 2851-2863.
 - Li M, Ye Z, Li Y, et al. Membership Inference Attack Should Move On to Distributional Statistics for Distilled Generative Models[J]. arXiv preprint arXiv:2502.02970, 2025.
-- 
+
 ## Academic Service
 - Conference Reviewer: ICML, NeurIPS, ICLR, AISTATS, etc.
 - Journal Reviewer: NEUNET, etc.
